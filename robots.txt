@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://roofing-company-atlanta-ga.netlify.app/sitemap.xml
